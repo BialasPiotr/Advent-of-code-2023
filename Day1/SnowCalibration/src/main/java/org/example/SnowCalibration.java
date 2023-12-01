@@ -1,4 +1,4 @@
-package org.example;
+package SnowCalibration.src.main.java.org.example;
 
 import java.io.InputStream;
 import java.util.Scanner;
